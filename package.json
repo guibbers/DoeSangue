@@ -1,0 +1,26 @@
+{
+  "name": "MaratonaDev3.0",
+  "version": "1.0.0",
+  "description": "Projeto DoeSangue desenvolvido na MaratonaDev 3ª Edição",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibbers/DoeSangue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guibbers/DoeSangue/issues"
+  },
+  "homepage": "https://github.com/guibbers/DoeSangue#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1",
+    "pg": "^8.3.0"
+  }
+}
